@@ -11,7 +11,7 @@ function readTranslationSheet(translationExcelPath, sheetName) {
 
     while (true) {
         const englishCell = worksheet[`A${rowIndex}`];
-        const germanCell = worksheet[`B${rowIndex}`];
+        const germanCell = worksheet[`C${rowIndex}`];
 
         if (!englishCell || !germanCell || !englishCell.v || !germanCell.v) {
             consecutiveEmptyRows++;
@@ -23,10 +23,8 @@ function readTranslationSheet(translationExcelPath, sheetName) {
 
         rowIndex++;
     }
-    console.log(translations);
     return translations;
 }
-
 
 // 翻译JSON文件
 function translateJson(jsonFilePath, translations, wordLibrary) {
@@ -35,13 +33,12 @@ function translateJson(jsonFilePath, translations, wordLibrary) {
     // 递归翻译函数
     function translate(data) {
         if (typeof data === 'string') {
-            const lowerCaseData = data.toLowerCase();
+            let translatedValue = data;
             for (const englishWord in translations) {
-                if (lowerCaseData.includes(englishWord)) {
-                    data = data.replace(new RegExp(englishWord, 'gi'), translations[englishWord]);
-                }
+                const regex = new RegExp('\\b' + englishWord + '\\b', 'gi');
+                translatedValue = translatedValue.replace(regex, translations[englishWord]);
             }
-            return data;
+            return translatedValue;
         } else if (Array.isArray(data)) {
             // 如果是数组，递归处理每个元素
             return data.map(item => translate(item));
@@ -76,9 +73,9 @@ function main(jsonFilePath, translationExcelPath, sheetName, outputFilePath, wor
 }
 
 // 运行主函数
-const jsonFilePath = 'E:/练习/code/source/json/a.json';
-const translationExcelPath = 'E:/练习/code/source/excel/tr.xlsx';
-const sheetName = 'Hair Gleam'; 
-const outputFilePath = 'E:/练习/code/source/json/output.json';
-const wordLibrary = ['Video', 'item', 'word3']; 
+const jsonFilePath = 'D:/Code/translate/source/json/a.json';
+const translationExcelPath = 'D:/Code/translate/source/excel/tr.xlsx';
+const sheetName = 'Hair Gleam';
+const outputFilePath = 'D:/Code/translate/source/json/output.json';
+const wordLibrary = ['Video', 'item', 'word3'];
 main(jsonFilePath, translationExcelPath, sheetName, outputFilePath);
