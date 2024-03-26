@@ -1,0 +1,971 @@
+{
+    "sections": {
+        "1655811722df704345": {
+            "type": "section-settings",
+            "settings": {
+                "page_settings": "<style>\n.product-diver-seciton-0 {\nmargin-top:0!important;\n}\n.product-diver-seciton-0 .mb-tabbar-item{display:none!important}\n</style>\n<script src=\"//cdn.shopify.com/s/files/1/0553/1320/3405/t/43/assets/ScrollMagic.js?v=73919271976155179241655100912\" type=\"text/javascript\"></script>\n<script src=\"//cdn.shopify.com/s/files/1/0553/1320/3405/t/43/assets/TweenMax.min.js?v=55138139101431400031655100918\" type=\"text/javascript\"></script>  \n\n<script src=\"//cdn.shopify.com/s/files/1/0553/1320/3405/t/43/assets/addIndicators.min.js?v=64012857086528881841655100902\" type=\"text/javascript\"></script>\n<script src=\"//cdn.shopify.com/s/files/1/0553/1320/3405/t/43/assets/animation.gsap.js?v=64012857086528881841655100902\" type=\"text/javascript\"></script>"
+            }
+        },
+        "db521a19-d739-40fe-84cb-2ce7a58e6dba": {
+            "type": "product-template",
+            "blocks": {
+                "6297527a-73c7-448d-9a71-34d90e7bf005": {
+                    "type": "item",
+                    "settings": {
+                        "title": "Açıklama"
+                    }
+                },
+                "49367215-d280-4fdd-8cef-09b707b54f3d": {
+                    "type": "item",
+                    "settings": {
+                        "title": "Teknik Özellikler"
+                    }
+                }
+            },
+            "block_order": [
+                "6297527a-73c7-448d-9a71-34d90e7bf005",
+                "49367215-d280-4fdd-8cef-09b707b54f3d"
+            ],
+            "settings": {
+                "show_section": false,
+                "product_vendor_enable": false,
+                "social_sharing_products": true,
+                "quantity_enabled": false,
+                "product_selector": "radio",
+                "enable_payment_button": true,
+                "add_to_cart_button_size": "small",
+                "media_layout": "stacked",
+                "image_autoplay": true,
+                "enable_image_zoom": true,
+                "enable_video_looping": false,
+                "tabbar_color": "#000000",
+                "show_tabbar_btn": false,
+                "tabbar_btn_type": "buy",
+                "tabbar_outer_btn": "",
+                "show_custom_btn": true,
+                "tabbar_custom_btn": "",
+                "show_tabbar_btn_mb": false,
+                "tabbar_title_mb": "",
+                "tabbar_subtitle_mb": "",
+                "change_product": false,
+                "changed_product": ""
+            }
+        },
+        "b8d2127a-706d-4db4-96d7-15f01a3f5389": {
+            "type": "product-diver",
+            "settings": {}
+        },
+        "144fb8cc-4445-435c-8263-1433d102e541": {
+            "type": "common-media",
+            "blocks": {
+                "a6699743-a0af-457c-82d6-a0390cd2b742": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 53,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_1-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_1-100.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__02.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "<br>Super Fast. Super Light. <br>\nSuper Smooth.",
+                        "text_position": "top",
+                        "text": "<div style=\"font-weight:bold;font-size:1.5em;\">Dreame Hair Gleam</div>\n\nHigh-Speed Hair Dryer",
+                        "custom_html_content": "",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#ffffff",
+                        "addition_content_color_mb": "#ffffff",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "",
+                        "iframe_video_url": "",
+                        "choose_product_name": "r10"
+                    }
+                }
+            },
+            "block_order": [
+                "a6699743-a0af-457c-82d6-a0390cd2b742"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": ""
+            }
+        },
+        "f0fcf072-3821-489d-89dc-eecce02890b0": {
+            "type": "common-product-icon",
+            "blocks": {
+                "f3c3fc3d-26eb-4896-89a6-2da769ad1825": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_1.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_1.png",
+                        "subtitle": "110,000RPM<br>\nHigh-Speed"
+                    }
+                },
+                "525f7ec2-0c04-4e57-ad75-72820a76f673": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_2.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_2.png",
+                        "subtitle": "65m/s\nPowerful <br>Airflow Speed"
+                    }
+                },
+                "31c7ca5c-43f6-4a4c-a20f-0904de2c58fd": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_3.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_3.png",
+                        "subtitle": "57℃\nIntelligent <br> Constant Temperature"
+                    }
+                },
+                "30439fa4-62ea-42ad-833a-87d8a7ff506f": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_4.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_4.png",
+                        "subtitle": "330g<br>\nUltra-Lightweight Body"
+                    }
+                },
+                "8a52ff14-0f26-42db-a521-bfd4e5ed2fa9": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_5.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_5.png",
+                        "subtitle": "2 million<br>\nNegative Ions"
+                    }
+                },
+                "df999999-ee41-4ccc-ac1c-dce5f288e6d6": {
+                    "type": "block",
+                    "settings": {
+                        "image": "shopify://shop_images/hair-gleam_6.png",
+                        "image_mb": "shopify://shop_images/hair-gleam_6.png",
+                        "subtitle": "59dB<br>\nLow Noise"
+                    }
+                }
+            },
+            "block_order": [
+                "f3c3fc3d-26eb-4896-89a6-2da769ad1825",
+                "525f7ec2-0c04-4e57-ad75-72820a76f673",
+                "31c7ca5c-43f6-4a4c-a20f-0904de2c58fd",
+                "30439fa4-62ea-42ad-833a-87d8a7ff506f",
+                "8a52ff14-0f26-42db-a521-bfd4e5ed2fa9",
+                "df999999-ee41-4ccc-ac1c-dce5f288e6d6"
+            ],
+            "settings": {
+                "section_css": "hair-gleam-icon",
+                "section_width": 100,
+                "title": "<style>\n.hair-gleam-icon .common-icon-item .common-subtitle {\n  font-size: 16px;\n}\n@media only screen and (max-width: 1200px) and (min-width: 850px) {\n  .hair-gleam-icon .common-icon-item .common-subtitle {\n    font-size: 12px;\n  }\n}\n@media only screen and (max-width: 850px) {\n  .hair-gleam-icon .common-icon-box>.common-icon-item:nth-child(n+4) {\n    margin-top: 30px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  .hair-gleam-icon .common-icon-item .common-subtitle {\n    font-size: 12px;\n  }\n}\n</style>",
+                "text": "",
+                "custom_css": ""
+            }
+        },
+        "8bdfdae6-9e7b-436a-809d-c05be4ae66c4": {
+            "type": "common-media",
+            "blocks": {
+                "c83f3400-f8b3-489a-b926-7d56ec60d693": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media hair-gleam-media-1",
+                        "custom_html_css": "@media screen and (max-width: 850px){\n.hair-gleam-media-1.common-section-container {\n    padding-bottom: 0px;\n}\n}",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 45,
+                        "text_alignment": "vertical-center horizontal-right",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_2-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_2-100.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__05.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Super power and \n<nobr>speedy motor.</nobr>",
+                        "text_position": "bottom",
+                        "text": "Traditional hair dryers use high temperatures, while our hair dryer obtains a powerful 110,000 RPM* high-speed 1,600W* Brushless Motor.",
+                        "custom_html_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>110,000RPM: Data from Dreame Labs. <span class=\"m-br\"></span>Under the standard laboratory environment (23±2℃).\n</div>\n<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>\n1,600W: 1600W is the rated power. Data from Dreame Labs.</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#4d4d4d",
+                        "addition_content_color_mb": "#4d4d4d",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                }
+            },
+            "block_order": [
+                "c83f3400-f8b3-489a-b926-7d56ec60d693"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": ""
+            }
+        },
+        "b4fd8f5f-eed0-4774-8256-d1843279751f": {
+            "type": "common-d9-max-swiper",
+            "settings": {
+                "section_css": "hair-gleam-d9-swiper  hair-gleam-media-mobile-hiden",
+                "image_1": "shopify://shop_images/hair_gleam_3-100.jpg",
+                "image_mb_1": "shopify://shop_images/hair_gleam_3-100.jpg",
+                "image_2": "shopify://shop_images/hair_gleam_4-100.jpg",
+                "image_mb_2": "shopify://shop_images/hair_gleam_4-100.jpg",
+                "image_3": "shopify://shop_images/hair_gleam_5-100.jpg",
+                "image_mb_3": "shopify://shop_images/hair_gleam_5-100.jpg",
+                "title": "",
+                "content": "<span class=\"new-slider\"></span>\n<li class=\"active\">\n  <i class=\"first-i\"></i>\n  <div class=\"li-i-content\">\n    <div class=\"common-title\">Super fast drying.</div>\n    <div class=\"common-subtitle\">\n      Dreame Hair Gleam High-Speed Hair Dryer offers an ultra-fast wind speed of\n      65m/s* and an air volume of 55m³/h*, providing a strong pressurized\n      airflow for efficient drying. The airflow directly reaches the hair roots,\n      gently removing the water from the hair's surface. Experience the freedom\n      of hair care with a quick 3-minute* drying time.\n    </div>\n    <div>\n      <div class=\"hair-gleam-block-01\">\n        <span><span>55m³/h</span><span>Air Volume</span></span>\n<span class=\"line\"></span>\n        <span><span>65m/s</span> <span> Powerful Airflow Speed</span></span>\n      </div>\n      <div class=\"common-tips\">\n       <span class=\"common-pc--hide\">*</span> 65m/s: Data from Dreame Labs. Under the standard laboratory environment\n        (20±5°C).</div>\n<div class=\"common-tips\">\n       <span class=\"common-pc--hide\">*</span> 55m³/h: Data from Dreame Labs. Under the standard laboratory\n        environment (20±5°C). </div>\n        <div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>3-minute blow dry routine: Drying time may vary slightly according to\n        the user's hair quality, hair volume, usage habits, ambient temperature,\n        humidity, and other variables. The time displayed on the page is for\n        reference only based on the average performance.\n      </div>\n    </div>\n  </div>\n</li>\n<li>\n  <i class=\"second-i\"></i>\n  <div class=\"li-i-content\">\n    <div class=\"common-title\">Super light. Extra convenient.</div>\n    <div class=\"common-subtitle\">\n      Dreame Hair Gleam High-Speed Hair Dryer is ergonomically crafted with a\n      motor for enhanced comfort. Weighing only 330g*, our hair dryer ensures\n      fatigue-free operation even during hair styling.\n    </div>\n    <div>\n      <div class=\"icon-content\">\n       <img style=\"    max-width:45px;\" src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_4.svg?v=1697792117\">\n       <div> <span>\n330g<br>\n        Ultra-Lightweight Body\n</span>\n     \n      <div class=\"common-tips\">\n        <span class=\"common-pc--hide\">*</span>330g: Data from Dreame Labs. The power cord and the nozzle are not\n        obtained.\n      </div> </div> </div>\n    </div>\n  </div>\n</li>\n<li>\n  <i class=\"third-i\"></i>\n  <div class=\"li-i-content\">\n    <div class=\"common-title\">Super anti-static and smooth.</div>\n    <div class=\"common-subtitle\">\n      Dreame Hair Gleam High-Speed Hair Dryer is equipped with a unique air duct\n      design and a negative-ion emitter that releases 2 million negative ions*.\n      Their mighty combination rapidly neutralizes static charges and\n      effectively smooths the hair.\n    </div>\n    <div>\n      <div class=\"icon-content\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_5.svg?v=1698396230\">\n<div>\n       <span> 2 million<br>\n        Negative Ions</span>\n      <div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>\n        2 million negative ions: Data from Dreame Labs. Under the standard\n        laboratory environment (23±2°C).\n      </div> </div> </div>\n    </div>\n  </div>\n</li>\n<style>\n/* new slide */\nspan.new-slider {\n  position: absolute;\n  width: 7px;\n  height: 33.33%;\n  background: #000;\n  left: 0px;\n  top: 0;\n}\n\n.hair-gleam-d9-swiper .cd9-max-sb-inner{\n      flex-direction: row-reverse;\n}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box{\n  padding:0;\n  margin-right:40px;\n}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box i{opacity:0;}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box li{margin-top:0 !important;    height: 100%;}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box li .common-subtitle{\n  color: #4d4d4d;\n  font-weight: normal;\n}\n.hair-gleam-d9-swiper li div.li-i-content{opacity:0;overflow:hidden;height: 100%;}\n\n.hair-gleam-d9-swiper li.active div.li-i-content{opacity:1;}\n.hair-gleam-d9-swiper li.active div.li-i-content .common-subtitle+div{position:absolute;bottom:5px;}\n.hair-gleam-d9-swiper  div.icon-content{\n   display:flex; align-items: flex-start;\n}\n.hair-gleam-d9-swiper .common-content li img{max-width:45px;margin-right:30px;}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box li.active .common-tips{\n  padding-left:5px;\n}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .text-box li.active .common-tips span{\n  position:absolute;\n  left:0;display:block;\n}\n@media only screen and (max-width: 1500px) {\n  .hair-gleam-d9-swiper .cd9-max-sb-inner .text-box li .common-title {\n    margin-bottom: 10px;\n  }\n\n\n}\n@media only screen and (max-width: 1200px) and (min-width: 850px) {\n  .hair-gleam-d9-swiper .common-wrapper {\n    width: 90%;\n  }\n  .hair-gleam-d9-swiper .cd9-max-sb-inner .text-box .common-tips {\n    margin-top: 0;\n  }\n\n}\n\n@media only screen and (max-width: 1000px) {\n  .hair-gleam-d9-swiper .cd9-max-sb-inner .text-box .common-content {\n    padding-top: 0px;\n    padding-bottom: 0;\n  }\n  .hair-gleam-d9-swiper li div.li-i-content .common-subtitle + div {\n    position: relative;\n  }\n  .hair-gleam-d9-swiper .cd9-max-sb-inner .text-box .common-tips {\n    margin-top: 0;\n  }\n}\n.hair-gleam-d9-swiper .cd9-max-sb-inner .image{\n    -webkit-clip-path: inset(0 round 20px);\nclip-path: inset(0 round 20px);\n}\n\n\n</style>",
+                "use_default_width": true,
+                "use_new_slider": true,
+                "same_height": true
+            }
+        },
+        "4c673bb0-f550-4ca4-a4ed-8f9e2b0f8761": {
+            "type": "common-media",
+            "blocks": {
+                "40bff682-8eb5-4acb-b10e-70f3e51bb080": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media  hair-gleam-media-pc-hiden hair-gleam-media-003  hair-gleam-p0",
+                        "custom_html_css": "@media only screen and (max-width: 850px) {\n    .hair-gleam-media-003 div &gt; div.prtext-wrapper .hero__text-content {\n        padding: 0px 0 !important;\n      }\n    }",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 70,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-bottom mb_horizontal-left",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__07.jpg",
+                        "image_pad": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__07.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_03.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Super fast drying.",
+                        "text_position": "bottom",
+                        "text": "<style>\n.hair-gleam-block-01 {\n    display:flex;    padding: 1.5vw 0;\n}\n.hair-gleam-block-01 sup{display:none;}\n.hair-gleam-block-01>span{\n  display: flex;\n    flex-direction: column;\n    color: #040000;position:relative;\n}\n.hair-gleam-block-01>span>span:first-child{\n  font-size: 2vw;    font-family: \"Rany-Bold\";\n}\n.hair-gleam-block-01>span:first-child{\n      padding-right: 15%;\n}\n.hair-gleam-block-01>span:first-child::before {\n    content: \"\";\n    display: inline-block;\n    width: 5px;\n    height: 50px;\n    background: #040000;\n    position: absolute;\n    right: 15%;\n    top: 0;\n    bottom: 0;\n    margin: auto;\n}\n\n@media only screen and (max-width:850px){\n    .hair-gleam-block-01{justify-content: center;    margin-top: 20px;}\n    .hair-gleam-block-01>span{font-size:14px;}\n    .hair-gleam-block-01>span>span:first-child{\n      margin-bottom: 15px;\n  \n      font-size: 30px;\n    }\n    .hair-gleam-block-01>span:first-child::before{width:1px;height:30px;}\n    div .multi-icon-content{\n      position: absolute;\n      top: 200px;\n      display: block;\n    }\n}\n</style>\n\nThe airflow directly reaches the hair roots, gently removing the water from the hair's surface. Experience the freedom of hair care with \na quick 3-minute* <sup>1</sup>drying time. <div class=\"hair-gleam-block-01\">\n        <span><span>55m³/h</span><span>Air Volume<sup>2</sup></span></span>\n<span class=\"line\"></span>\n        <span><span>65m/s</span> <span> Powerful Airflow Speed<sup>3</sup></span></span>\n      </div>",
+                        "custom_html_content": "",
+                        "link": "",
+                        "addition_content": "*65m/s: Data from Dreame Labs. Under the standard laboratory environment (20±5°C).  <br>\n*55m³/h: Data from Dreame Labs. Under the standard laboratory environment (20±5°C). <br>\n*3-minute blow dry routine: The time displayed on the page is for reference only based on the average performance.\n<style>\n.hair-gleam-media-003 .common-media-item .media-box .common-tips{\ntext-align: center !important;\n}\n@media only screen and (max-width:500px){\n\n.hair-gleam-media-003 .common-media-item .media-box .common-tips{\ndisplay:none;  \n}\n.hair-gleam-block-01 sup{display:inline;}\n}\n</style>",
+                        "addition_content_color": "#000000",
+                        "addition_content_color_mb": "#000000",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                },
+                "df22837d-3327-4128-9581-9c7c43ca633e": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media hair-gleam-media-004 hair-gleam-p0",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 53,
+                        "text_alignment": "vertical-center horizontal-right",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_6-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_6-100.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__09.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Super intelligent algorithm. <div class=\"pc-br\">\nSuper stable temperature.</div>",
+                        "text_position": "bottom",
+                        "text": "<div class=\"common-pc--hide\">\nDreame Hair Gleam High-Speed Hair Dryer features intelligent temperature control\n to quick dry and keep your hair \nsoft and shiny. \n</div>\n<div class=\"common-small--hide\">\n\nProlonged exposure to hot air can lead to hair dryness, fragility, and breakage due to water evaporation and protein loss. Dreame Hair Gleam High-Speed Hair Dryer features intelligent temperature control to quick dry and keep your hair soft and shiny. A closed-loop control measuring 100 times/second* ensures a safe temperature of 57℃*, protecting your hair by making it glossy and smooth.</div>",
+                        "custom_html_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>100 times/second: Data from Dreame Labs.     </div>\n<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>57℃: Data from Dreame Labs.\n\n</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#000000",
+                        "addition_content_color_mb": "#000000",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                },
+                "75245be6-f714-4d92-aeec-c3f1cadc2696": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media-pc-hiden  hair-gleam-media  hair-gleam-p0",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 70,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__11.jpg",
+                        "image_pad": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__11.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__11.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Super light. Extra convenient.",
+                        "text_position": "bottom",
+                        "text": "<div class=\"common-pc--hide\">\nWeighing only 330g*, our hair dryer ensures fatigue-free operation even during hair styling.</div>\n<div class=\"common-small--hide\">\nDreame Hair Gleam High-Speed Hair Dryer is ergonomically crafted with a motor for enhanced comfort. Weighing only 330g*, our hair dryer ensures fatigue-free operation even during hair styling.\n</div>\n<div style=\"margin-top:20px\"> only <span style=\"font-weight:bold;font-size:32px;\">330g</span>\n</div>",
+                        "custom_html_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>330g: Data from Dreame Labs. The power cord and the nozzle are not obtained.\n</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#000000",
+                        "addition_content_color_mb": "#000000",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                }
+            },
+            "block_order": [
+                "40bff682-8eb5-4acb-b10e-70f3e51bb080",
+                "df22837d-3327-4128-9581-9c7c43ca633e",
+                "75245be6-f714-4d92-aeec-c3f1cadc2696"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": ""
+            }
+        },
+        "cd223569-c74f-4d05-8448-5eb405681500": {
+            "type": "common-product-swiper",
+            "blocks": {
+                "166622c9-d41a-4248-a8f8-a0438da5b0d9": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": true,
+                        "image": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_07.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_07.jpg",
+                        "image_content": "<div class=\"icon-content\">\n  <img style=\"    max-width:45px;\" src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_5.svg?v=1698396230\">\n  <span>\n    2 million\n<br>\n  Negative Ions\n  </span>\n</div>",
+                        "title": "Super anti-static and smooth.",
+                        "subtitle": "<div class=\"common-pc--hide\">Dreame Hair Gleam Hair Dryer is equipped with a unique air duct design and a negative-ion emitter that releases 2 million negative ions*. </div>\n<div class=\"common-small--hide\">Dreame Hair Gleam High-Speed Hair Dryer is equipped with a unique air duct design and a negative-ion emitter that releases 2 million negative ions*. Their mighty combination rapidly neutralizes static charges and effectively smooths the hair.</div>",
+                        "custom_html": "",
+                        "additional_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>2 million negative ions: Data from Dreame Labs. \nUnder the standard laboratory environment (23±2°C).\n</div>"
+                    }
+                },
+                "6999fb9e-a562-4804-9d7d-6e9db3e8c494": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "hair-gleam-swiper-01-2",
+                        "enable_text_top": true,
+                        "image": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_09.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_09.jpg",
+                        "image_content": "<div class=\"icon-content\">\n  <img style=\"    max-width:45px;\" src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_6.svg?v=1698396716\">\n         <span>  59dB<br>\n         \nLow Noise</span>\n        </div>",
+                        "title": "Super power, less noise.",
+                        "subtitle": "<div class=\"common-pc--hide\">Give yourself a quiet and elegant ambience during the blowdry at a  noise level of 59dB*. Our hair dryer provides a peaceful blow-drying \nexperience right for you.</div>\n<div class=\"common-small--hide\">Give yourself a quiet and elegant ambience during the blowdry at a noise level of 59 dB*. The Dreame Hair Gleam High-Speed Hair Dryer utilizes an efficient air duct system design to reduce shaking and friction. Our hair dryer provides a peaceful blow-drying experience right for you.</div>",
+                        "custom_html": "",
+                        "additional_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>59dB: The highest noise was measured in the Cool Air Temperature Level and High-Speed Airflow Mode.\n</div>"
+                    }
+                }
+            },
+            "block_order": [
+                "166622c9-d41a-4248-a8f8-a0438da5b0d9",
+                "6999fb9e-a562-4804-9d7d-6e9db3e8c494"
+            ],
+            "settings": {
+                "section_css": "hair-gleam-media-pc-hiden hair-gleam-swiper-01",
+                "custom_css": ".hair-gleam-swiper-01{text-align:center;}\n .hair-gleam-swiper-01 .image {position:relative;clip-path:inset(0 round 20px);-webkit-clip-path:inset(0 round 20px);}\n.hair-gleam-swiper-01 .image .icon-content   {\n       position: absolute;\n    top: 20px;\n    left: 20px;\n    width: 100%;\n       display: flex;font-weight: bold;\n    color: #000;    font-size: 14px;\n    text-align: left;\n }\n .hair-gleam-swiper-01 .image .icon-content img{    max-width: 30px !important;\n    margin-right: 15px;}\n .hair-gleam-swiper-01  .hair-gleam-swiper-01-2 .image .icon-content{ \n       color: white;\n }\n  .hair-gleam-swiper-01  .additional_content .common-tips{margin-top: 20px;}",
+                "title": "",
+                "text": "",
+                "enable_swiper": true,
+                "enable_same_height": true,
+                "enable_pagination": false,
+                "enable_scrollbar": true,
+                "enable_arrow": false,
+                "arrow_position": "left",
+                "swiper_arrow_html_left": "",
+                "swiper_arrow_html_right": "",
+                "swiper_pc_num": "1",
+                "swiper_ipad_num": "1",
+                "swiper_mb_num": "1"
+            }
+        },
+        "d1c385ed-85be-4c52-a93e-7a955e3fe0e3": {
+            "type": "common-media",
+            "blocks": {
+                "c3576655-9f81-4b96-b769-6135b34b2743": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media  hair-gleam-media-color hair-gleam-media-mobile-hiden hair-gleam-p0",
+                        "custom_html_css": ".hair-gleam-media-color  .title,.hair-gleam-media-color .subtitle,.hair-gleam-media-color div.common-tips{color:white !important;}",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 45,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-bottom mb_horizontal-left",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_7-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_7-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_7-100.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Super power, less noise.",
+                        "text_position": "bottom",
+                        "text": "Give yourself a quiet and elegant ambience during the blowdry at a  noise level of 59 dB*. The Dreame Hair Gleam High-Speed Hair Dryer utilizes an efficient air duct system design to reduce shaking and friction. Our hair dryer provides a peaceful blow-drying experience right for you.",
+                        "custom_html_content": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>59dB: The highest noise was measured in the Cool Air Temperature Level and High-Speed Airflow Mode.</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#ffffff",
+                        "addition_content_color_mb": "#ffffff",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                },
+                "28f9e995-cc92-4550-b459-eb16d83a3e4d": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": false,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-p0 hair-gleam-pn0",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 60,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-bottom mb_horizontal-left",
+                        "text_position_mb": true,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_8-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_8-100.jpg",
+                        "image_mb": "shopify://shop_images/a7dd346231a0a22ff104d6e17023a55f.png",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": true,
+                        "show_animated": true,
+                        "title": "Super stylish combinations.",
+                        "text_position": "bottom",
+                        "text": "<div class=\"common-pc--hide\">Two airflow speeds and four temperature levels enable accurate styling.  A colored LED indicator and intuitive button design suit your fashion needs, making your hair-drying \nexperience simple. </div>\n<div class=\"common-small--hide\">Two airflow speeds and four temperature levels enable accurate styling. Hot Air Mode features precise temperature control with low hair damage while providing better styling options. Natural &amp; Hot Circulation Mode allows you to switch between hot and cold air levels, saving you plenty of time, providing extra convenience, and offering various stylish combos. A colored LED indicator and intuitive button design suit your fashion needs, making your hair-drying experience simple.</div>",
+                        "custom_html_content": "<div class=\"multi-icon-content\">\n  <div>\n    <div>\n      <span class=\"icon-title\"> 2 Airflow Speeds</span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_7.svg?v=1698131369\">High-Speed Airflow</span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_8.svg?v=1698131369\">Low-Speed Airflow</span>\n    </div>\n  </div>\n  <div>\n    <div>\n      <span class=\"icon-title\"> 4 Temperature Levels</span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_9.svg?v=1698131369\">Cool Air (25­°C)\n      </span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_10.svg?v=1698131369\">Warm Air (57­°C)\n      </span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_11.svg?v=1698131369\">Hot Air (85­°C)\n      </span>\n      <span><img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair-gleam_12.svg?v=1698131369\"> Circulation\n      </span>\n    </div>\n  </div>\n</div>\n\n\n\n<style>\n.multi-icon-content{\n      display: flex;\n\n  }\n  .multi-icon-content>div{flex:1;}\n  .multi-icon-content>div>div {\n      display: flex;\n  flex-direction: column;\n  }\n  .multi-icon-content>div>div>span{\n      margin: 7.5px 0;\n  }\n  .multi-icon-content div img{    vertical-align: middle;\n     max-width: 35px;\n     margin-right: 24px;\n  }\n .icon-title{\n      font-size: 1.2em;\n      color: #1b1b1b;    font-weight: bold;\n  }\n@media only screen and (max-width: 1024px) and (min-width: 850px) {\n  .multi-icon-content > div > div > span {\n    font-size: 12px;\n  }\n  .multi-icon-content div img {\n    max-width: 22px;\n    margin-right: 10px;\n  }\n}\n@media only screen and (max-width: 1024px) {\n  .multi-icon-content > div > div > span {\n    margin: 3px 0;\n  }\n}\n@media only screen and (max-width: 850px) {\n  .multi-icon-content > div > div {\n    text-align: left;\n    margin-left: 60px;\n  }\n}\n@media only screen and (max-width: 600px) {\n  div .multi-icon-content {\n    top: 150px;\n  }\n  .multi-icon-content > div > div {\n    margin-left: 20px;\n    white-space: nowrap;\n  }\n}\n@media only screen and (max-width: 500px) {\n  div .multi-icon-content {\n    top: 160px;\n  }\n  .multi-icon-content div img {\n    max-width: 20px;\n    margin-right: 10px;\n  }\n  .multi-icon-content > div > div {\n    margin-left: 10px;\n    font-size: 12px;\n  }\n}\n@media only screen and (max-width: 400px) {\n  div .multi-icon-content {\n        top: 100px;\n}\n</style>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#ffffff",
+                        "addition_content_color_mb": "#ffffff",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                }
+            },
+            "block_order": [
+                "c3576655-9f81-4b96-b769-6135b34b2743",
+                "28f9e995-cc92-4550-b459-eb16d83a3e4d"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": ""
+            }
+        },
+        "1c254209-a036-43d3-a22a-84706932697f": {
+            "type": "common-media",
+            "blocks": {
+                "d20cb396-a9f8-45cc-805a-47680b93ee05": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media hair-gleam-media-01 hair-gleam-p0",
+                        "custom_html_css": ".hair-gleam-change-media {\n  position: relative;\n}\n.hair-gleam-change-media .hair-gleam-media-01.no-active,\n.hair-gleam-change-media .hair-gleam-media-01 + .hair-gleam-media {\n  position: absolute;\n  opacity: 0;\n}\n.hair-gleam-change-media .hair-gleam-media-01.no-active + .hair-gleam-media {\n  position: relative;\n  opacity: 1;\n}\n.hair-gleam-change-media div.img-container {\n  margin-top: 30px;\n}\n.hair-gleam-change-media div.img-container img {\n  max-width: 140px;\n  width: 20%;\n}\n@media only screen and (max-width: 1200px) and (min-width: 850px) {\n    .hair-gleam-change-media\n      section\n      .common-media-item\n      .prtext-wrapper\n      .hero__text-content {\n      padding: 0;\n    }\n  }\n@media only screen and (max-width: 850px){\n.hair-gleam-change-media\n      section\n      .common-media-item\n      .custom_html_box .common-tips   {\n     display:none\n    }\n.hair-gleam-change-media \n .hair-gleam-media .bg-text-table-wrapper .bg-text-wrapper-inner{\npadding-top:30px;\n}\n}",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 50,
+                        "text_alignment": "vertical-center horizontal-right",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_9-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_9-100.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_34.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": false,
+                        "title": "A new lifestyle \nwith convenient design.",
+                        "text_position": "bottom",
+                        "text": "The skin-friendly UV shell adds a distinctive touch to the hair dryer, providing a more stylish look and smoother casing.\n<div class=\"img-container common-small--hide\" data-index=\"1\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_13.png?v=1697794186\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_14.png?v=1697794187\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_15.png?v=1697794186\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_16.png?v=1697794186\">\n</div>",
+                        "custom_html_content": "<div class=\"change-radio-container change-radio-container-01\">\n<span data-index=\"1\">Stellar Blush</span>\n<span data-index=\"2\">Lunar Rock </span>\n</div>\n<div class=\"common-tips common-small--hide\">\n<span class=\"common-pc--hide\">*</span>The product depicted here is for illustration purposes only. Actual appearance and figure may vary. Colors are subject to local sales.\n</div>\n<style>\n.change-radio-container {\n  margin-bottom: 25px;\n  font-weight: bold;\n}\n.change-radio-container-01 > span {\n  cursor: pointer;\n}\n.change-radio-container > span::before {\n  content: \"\";\n  width: 20px;\n  height: 20px;\n  border-radius: 50%;\n  background: radial-gradient(#eccfc6 50%, transparent 55% 100%);\n  display: inline-block;\n  vertical-align: middle;\n  margin-right: 12px;\n  padding: 5px;\n}\n.change-radio-container > span:nth-child(2)::before {\n  background: radial-gradient(#e7e7e7 50%, transparent 55% 100%);\n  margin-left: 30px;\n}\n.change-radio-container-01 > span:first-child,\n.change-radio-container-02 > span:nth-child(2) {\n  color: #000;\n}\n.change-radio-container-01 > span:first-child::before {\n  border: 1px solid #eccfc6;\n}\n.change-radio-container-02 > span:nth-child(2)::before {\n  border: 1px solid #e7e7e7;\n}\n</style>",
+                        "link": "",
+                        "addition_content": "<script>\n  $(function (){\n   $(\"div.change-radio-container>span\").click(function () {\n    $(\".hair-gleam-change-media\").find(\".hair-gleam-media-01\").eq(0).toggleClass(\"no-active\")\n  })\n})\n</script>",
+                        "addition_content_color": "#000000",
+                        "addition_content_color_mb": "#000000",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                },
+                "53d45f50-e32b-4a74-9205-0d12a378b4a1": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-media hair-gleam-p0",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 50,
+                        "text_alignment": "vertical-center horizontal-right",
+                        "text_alignment_mb": "mb_vertical-top mb_horizontal-center",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__03.jpg",
+                        "image_pad": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__03.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2_36.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": false,
+                        "title": "A new lifestyle \nwith convenient design.",
+                        "text_position": "bottom",
+                        "text": "The skin-friendly UV shell adds a distinctive touch to the hair dryer, providing a more stylish look and smoother casing.\n<div class=\"img-container common-small--hide\" data-index=\"2\">\n\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_17.png?v=1697794186\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_18.png?v=1697794186\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_19.png?v=1697794187\">\n<img src=\"https://cdn.shopify.com/s/files/1/0553/1320/3405/files/hair_gleam_20.png?v=1697794186\">\n</div>",
+                        "custom_html_content": "<div class=\"change-radio-container change-radio-container-02\">\n<span>Stellar Blush</span>\n<span>Lunar Rock </span>\n</div>\n<div class=\"common-tips common-small--hide\">\n<span class=\"common-pc--hide\">*</span>The product depicted here is for illustration purposes only. Actual appearance and figure may vary. Colors are subject to local sales.\n</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#000000",
+                        "addition_content_color_mb": "#000000",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                }
+            },
+            "block_order": [
+                "d20cb396-a9f8-45cc-805a-47680b93ee05",
+                "53d45f50-e32b-4a74-9205-0d12a378b4a1"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": "hair-gleam-change-media"
+            }
+        },
+        "6e71ce78-9d62-4099-8f12-7ba19c110131": {
+            "type": "custom-html",
+            "disabled": true,
+            "settings": {
+                "full_width": false,
+                "css_name": "",
+                "section_css": "",
+                "section_bg_color": "",
+                "padding_top": 50,
+                "padding_bottom": 50,
+                "padding_top_pad": 50,
+                "padding_bottom_pad": 50,
+                "padding_top_mb": 20,
+                "padding_bottom_mb": 20,
+                "custom_html": "<div class=\"color-container\">\n   <div class=\"color-item\">Galaxy Mint </div>\n   <div class=\"color-item\">Comet Lemon</div>\n   <div class=\"color-item\">Lunar Rock </div>\n   <div class=\"color-item\">Stardust White</div>\n   <div class=\"color-item\">Cosmic Azure</div>\n   <div class=\"color-item\">Stellar Blush</div>\n   <div class=\"color-item\">Nebula Violet</div>\n\n</div>"
+            }
+        },
+        "c12efa06-ab5b-4931-9ba3-665309b9a6a0": {
+            "type": "common-product-swiper",
+            "blocks": {
+                "374edf3e-b515-4746-8e4b-5d12f06831ef": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_19_2x-100_1.jpg",
+                        "image_mb": "shopify://shop_images/Haiar-Gleam-_-PC-APP-2_03.jpg",
+                        "image_content": "",
+                        "title": "One nozzle for different needs.",
+                        "subtitle": "The 360° Rotatable Magnetic Nozzle delivers smooth airflow for sleek hair and precise styling. The focused airflow allows the smoothing of frizzy hair while achieving luxurious look.",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "d2ff2b20-4242-4315-879e-7da4b4a97bac": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_19_2x-100_2.jpg",
+                        "image_mb": "shopify://shop_images/hair-gleam_a.png",
+                        "image_content": "",
+                        "title": "Safe inlet for free use.",
+                        "subtitle": "Innovative placement of the air inlet effectively reduces the risk of entanglement compared to traditional rear air outlets.",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                }
+            },
+            "block_order": [
+                "374edf3e-b515-4746-8e4b-5d12f06831ef",
+                "d2ff2b20-4242-4315-879e-7da4b4a97bac"
+            ],
+            "settings": {
+                "section_css": "hair-gleam-swiper-001",
+                "custom_css": "",
+                "title": "<style>\n.hair-gleam-swiper-001 .featured-box-wrapper {\n  display: flex;\njustify-content: space-between;text-align:center;\n}\n.hair-gleam-swiper-001 .featured-box-wrapper>div{\n   flex: 0 1 48%;\n}\n.hair-gleam-swiper-001 .featured-box-wrapper>div .content{\nmargin-top:30px;\n}\n@media only screen and (min-width:850px){\n .hair-gleam-swiper-001 .featured-box-wrapper .common-title{\n font-size:2vw !important;\n}\n}\n@media only screen and (min-width:850px){\n .hair-gleam-swiper-001 .featured-box-wrapper .common-title{\n font-size:2vw !important;\n}\n}\n@media only screen and (max-width: 850px) {\n.hair-gleam-swiper-001 .common-wrapper {\n    padding: 0;\n  }\n  .hair-gleam-swiper-001 .featured-box-wrapper {\n    flex-direction: column;\n  }\n  .hair-gleam-swiper-001 .featured-box-wrapper > div .content {\n    padding: 0 20px;\n  }\n  .hair-gleam-swiper-001 .featured-box-wrapper .pfi-inner {\n    display: flex;\n    flex-direction: column-reverse;\n  }\n}\n</style>",
+                "text": "",
+                "enable_swiper": false,
+                "enable_same_height": false,
+                "enable_pagination": false,
+                "enable_scrollbar": false,
+                "enable_arrow": false,
+                "arrow_position": "left",
+                "swiper_arrow_html_left": "",
+                "swiper_arrow_html_right": "",
+                "swiper_pc_num": "4",
+                "swiper_ipad_num": "3",
+                "swiper_mb_num": "1"
+            }
+        },
+        "ee10b021-22f3-4da0-8436-4c715ee5b143": {
+            "type": "common-product-swiper",
+            "blocks": {
+                "fc4daf3c-cd9d-44d4-8536-a5b10c9f07ff": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_13-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_13-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "f7364b59-3275-4205-a7bf-4c1203ed91a8": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_14-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_14-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "d8ccabd3-18f5-4a49-ae6b-f693e1a4534b": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_15-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_15-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "bdefd5df-e03d-492c-9e0a-5ef453ccb332": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_16-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_16-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "55f1ed6f-671f-405a-bb39-c986acac3705": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_17-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_17-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                },
+                "7da8fae2-e204-4bc3-acc1-0dcf63f7d41a": {
+                    "type": "block",
+                    "settings": {
+                        "block_css": "",
+                        "enable_text_top": false,
+                        "image": "shopify://shop_images/hair_gleam_18-100.jpg",
+                        "image_mb": "shopify://shop_images/hair_gleam_18-100.jpg",
+                        "image_content": "",
+                        "title": "",
+                        "subtitle": "",
+                        "custom_html": "",
+                        "additional_content": ""
+                    }
+                }
+            },
+            "block_order": [
+                "fc4daf3c-cd9d-44d4-8536-a5b10c9f07ff",
+                "f7364b59-3275-4205-a7bf-4c1203ed91a8",
+                "d8ccabd3-18f5-4a49-ae6b-f693e1a4534b",
+                "bdefd5df-e03d-492c-9e0a-5ef453ccb332",
+                "55f1ed6f-671f-405a-bb39-c986acac3705",
+                "7da8fae2-e204-4bc3-acc1-0dcf63f7d41a"
+            ],
+            "settings": {
+                "section_css": "hair-gleam-swiper-02",
+                "custom_css": "",
+                "title": "",
+                "text": "",
+                "enable_swiper": true,
+                "enable_same_height": false,
+                "enable_pagination": false,
+                "enable_scrollbar": true,
+                "enable_arrow": true,
+                "arrow_position": "left",
+                "swiper_arrow_html_left": "",
+                "swiper_arrow_html_right": "",
+                "swiper_pc_num": "4",
+                "swiper_ipad_num": "3",
+                "swiper_mb_num": "1"
+            }
+        },
+        "a5978190-dafd-48c0-a90d-eca766b9844e": {
+            "type": "common-media",
+            "blocks": {
+                "8a673592-2fc9-44b9-9895-135b3b205d15": {
+                    "type": "image",
+                    "settings": {
+                        "is_page_banner": true,
+                        "media_page": false,
+                        "show_frame_image": false,
+                        "product_name": "",
+                        "block_css": "hair-gleam-p0",
+                        "custom_html_css": "",
+                        "show_header": false,
+                        "section_title": "",
+                        "section_text": "",
+                        "text_align": "left",
+                        "text_align_mb": "center",
+                        "text_width": 70,
+                        "text_alignment": "vertical-center horizontal-left",
+                        "text_alignment_mb": "mb_vertical-bottom mb_horizontal-left",
+                        "text_position_mb": false,
+                        "media_type": "image",
+                        "image": "shopify://shop_images/hair_gleam_19-100.jpg",
+                        "image_pad": "shopify://shop_images/hair_gleam_19-100.jpg",
+                        "image_mb": "shopify://shop_images/Hair-Gleam-_-PC-APP-2-__42.jpg",
+                        "video_url": "",
+                        "video_mobile_url": "",
+                        "video_type": "youtube",
+                        "youtube_video": "",
+                        "youtube_video_mb": "",
+                        "section_logo": "",
+                        "section_logo_width": 0,
+                        "show_m_header": false,
+                        "show_animated": true,
+                        "title": "Package List",
+                        "text_position": "bottom",
+                        "text": "",
+                        "custom_html_content": "<div style=\"color:#000;\">\nSmoothing Nozzle ×1\n<br>\nHair Dryer ×1<br>\nPacking Box<br>\nUser Manual ×1\n</div>",
+                        "link": "",
+                        "addition_content": "",
+                        "addition_content_color": "#ffffff",
+                        "addition_content_color_mb": "#ffffff",
+                        "addition_content_alignment": "left",
+                        "iframe_video_label": "Schau Video",
+                        "iframe_video_url": "",
+                        "choose_product_name": ""
+                    }
+                }
+            },
+            "block_order": [
+                "8a673592-2fc9-44b9-9895-135b3b205d15"
+            ],
+            "settings": {
+                "show_section": true,
+                "section_css": ""
+            }
+        },
+        "83104145-4ef1-462b-9915-ac1c880ccc20": {
+            "type": "product-diver",
+            "settings": {}
+        },
+        "e7855886-9c93-4e78-b012-ff647bc7eb91": {
+            "type": "common-spec",
+            "settings": {
+                "section_css": "hair-gleam-spec",
+                "section_css_html": ".hair-gleam-spec .common-spec-image-box .image{max-width:250px}\n@media only screen and (max-width: 850px) {\n    .hair-gleam-spec .common-spec-text-box .text-box &gt; .title {\n        text-align: center;\n      }\n    }",
+                "bg_color": "#f9f9f9",
+                "layout": "right",
+                "image": "shopify://shop_images/hair_gleam_20-100.jpg",
+                "image_mb": "shopify://shop_images/hair_gleam_20-100.jpg",
+                "section_title": "",
+                "product_title": "Specifications",
+                "content": "<li> <span>Product Name</span> <span>Dreame Hair Gleam High-Speed Hair Dryer\n</span>\n</li>\n<li> <span>Voltage and Frequency</span> <span>220-240V~ 50/60Hz</span>\n</li>\n<li> <span>Airflow Speed</span> <span>65m/s </span>\n</li>\n<li> <span>Operation Modes</span> <span>Four temperature levels, two speed modes</span>\n</li>\n<li> <span>Motor</span> <span>110,000RPM high-speed motor</span>\n</li>\n<li> <span>Nozzle</span> <span>Smoothing nozzle</span>\n</li>\n<li> <span>Ion</span> <span>200 million platinum anions/cm³</span>\n</li>\n<li> <span>Noise</span> <span>≤59 dB</span>\n</li>\n<li> <span>Weight</span> <span>330g (the power cord and the nozzle are not obtained)</span>\n</li>",
+                "tips": "<div class=\"common-tips\">\n<span class=\"common-pc--hide\">*</span>Data from Dreame Labs. The product depicted here is for illustration purposes only. Actual appearance and figure may vary.\n</div>"
+            }
+        },
+        "8a95d6ed-7512-4eca-8cdc-9cb7c6539d08": {
+            "type": "section-settings",
+            "settings": {
+                "page_settings": "<script>\nif($(window).width()<=850){\n$(\".d10s-pro-part-2  .media-box\").append($(\".d10s-pro-part-2 .custom_html_box\"))\n}\n</script>"
+            }
+        },
+        "52148876-2dd6-4e12-8192-e48e24dde818": {
+            "type": "custom-html",
+            "settings": {
+                "full_width": false,
+                "css_name": "hair-gleam-last-content",
+                "section_css": "hair-gleam-last-content",
+                "section_bg_color": "",
+                "padding_top": 0,
+                "padding_bottom": 0,
+                "padding_top_pad": 0,
+                "padding_bottom_pad": 0,
+                "padding_top_mb": 0,
+                "padding_bottom_mb": 0,
+                "custom_html": "<div class=\"common-tips hair-gleam-last-content \">1:*65m/s: Data from Dreame Labs. Under the standard laboratory environment (20±5°C).  <br>\n2:*55m³/h: Data from Dreame Labs. Under the standard laboratory environment (20±5°C). <br>\n3:*3-minute blow dry routine: The time displayed on the page is for reference only based on the average performance.</div>\n<style>\n.hair-gleam-last-content.common-tips{display:none !important;text-align: left;padding:20px;}\n@media only screen and (max-width:500px){\n.hair-gleam-last-content.common-tips{display:block !important;}\n}\n</style>"
+            }
+        }
+    },
+    "order": [
+        "1655811722df704345",
+        "db521a19-d739-40fe-84cb-2ce7a58e6dba",
+        "b8d2127a-706d-4db4-96d7-15f01a3f5389",
+        "144fb8cc-4445-435c-8263-1433d102e541",
+        "f0fcf072-3821-489d-89dc-eecce02890b0",
+        "8bdfdae6-9e7b-436a-809d-c05be4ae66c4",
+        "b4fd8f5f-eed0-4774-8256-d1843279751f",
+        "4c673bb0-f550-4ca4-a4ed-8f9e2b0f8761",
+        "cd223569-c74f-4d05-8448-5eb405681500",
+        "d1c385ed-85be-4c52-a93e-7a955e3fe0e3",
+        "1c254209-a036-43d3-a22a-84706932697f",
+        "6e71ce78-9d62-4099-8f12-7ba19c110131",
+        "c12efa06-ab5b-4931-9ba3-665309b9a6a0",
+        "ee10b021-22f3-4da0-8436-4c715ee5b143",
+        "a5978190-dafd-48c0-a90d-eca766b9844e",
+        "83104145-4ef1-462b-9915-ac1c880ccc20",
+        "e7855886-9c93-4e78-b012-ff647bc7eb91",
+        "8a95d6ed-7512-4eca-8cdc-9cb7c6539d08",
+        "52148876-2dd6-4e12-8192-e48e24dde818"
+    ]
+}
