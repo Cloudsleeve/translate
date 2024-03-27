@@ -9,10 +9,18 @@ const translationData = {
     "57℃ Intelligent Constant Temperature": "57℃ Akıllı Sabit Sıcaklık"
 };
 
-// 匹配文本中的英文短语，并替换成土耳其语的翻译
-const translatedText = text.replace(/[a-zA-Z\s.℃]+/g, match => {
-    // 检查匹配到的短语是否在translationData中有对应的翻译，如果有则返回翻译，否则返回原文
-    return translationData[match.trim()] || match;
-});
+function translateTextToTurkish(data, translations) {
+    // 按照从长到短的顺序处理翻译项，避免短词匹配影响长复合词
+    const sortedTranslations = Object.entries(translations).sort((a, b) => b[0].length - a[0].length);
 
+    for (const [englishWord, turkishTranslation] of sortedTranslations) {
+        if (data.includes(englishWord)) {
+            data = data.replace(new RegExp(englishWord, 'g'), turkishTranslation);
+        }
+    }
+    return data;
+}
+
+// 使用翻译数据替换文本中的英文短语
+const translatedText = translateTextToTurkish(text, translationData);
 console.log(translatedText);
