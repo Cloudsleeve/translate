@@ -1,8 +1,8 @@
 module.exports = {
-  jsonFilePath: "E:/练习/translate/source/json/a.json", // 输入json文件路径
-  translationExcelPath: "E:/练习/translate/source/excel/tr.xlsx", // 输入翻译excel文件路径
+  jsonFilePath: "D:/Code/translate/source/json/a.json", // 输入json文件路径
+  translationExcelPath: "D:/Code/translate/source/excel/tr.xlsx", // 输入翻译excel文件路径
   sheetName: "Hair Gleam", // 输入excel文件sheet名称
-  outputFilePath: "E:/练习/translate/source/json/output.json", // 输出json文件路径
+  outputFilePath: "D:/Code/translate/source/json/output.json", // 输出json文件路径
   wordLibrary: [
     "video",
     "item",

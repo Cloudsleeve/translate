@@ -31,7 +31,7 @@ function readTranslationSheet(translationExcelPath, sheetName) {
     }
     rowIndex++;
   }
-  console.log(translations);
+
   return translations;
 }
 
