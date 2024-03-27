@@ -1,46 +1,18 @@
-const originalData = {
-    "header": "Super Fast. Super Light.",
-    "title": "<div>Airflow Speed</div>",
-    "subtitle": "Super Fast. Super Light. Super Smooth.",
-    "text": "57℃ Intelligent<br>Constant Temperature"
-};
-
+const text = `<div>Super Fast. Super Light.<br>Airflow Speed<p>Super Fast. Super Light. Super Smooth.</p></div>57℃ Intelligent Constant Temperature`;
 const translationData = {
     "Super Fast. Super Light.": "Süper Hızlı. Süper Hafif.",
     "Airflow Speed": "Hava Akışı Hızı",
     "Super Fast. Super Light. Super Smooth.": "Süper Hızlı. Süper Hafif. Süper Pürüzsüz.",
     "57℃ Intelligent": "57℃ Akıllı",
-    "Constant Temperature": "Sabit Sıcaklık"
+    "Constant Temperature": "Sabit Sıcaklık",
+    "High-Speed Hair Dryer": "Yüksek Hızlı Kremleme Makinesi",
+    "57℃ Intelligent Constant Temperature": "57℃ Akıllı Sabit Sıcaklık"
 };
 
-// 将所有翻译数据键转换为小写以便忽略大小写进行匹配
-const caseInsensitiveTranslationData = {};
-for (const key in translationData) {
-    caseInsensitiveTranslationData[key.toLowerCase()] = translationData[key];
-}
+// 匹配文本中的英文短语，并替换成土耳其语的翻译
+const translatedText = text.replace(/[a-zA-Z\s.℃]+/g, match => {
+    // 检查匹配到的短语是否在translationData中有对应的翻译，如果有则返回翻译，否则返回原文
+    return translationData[match.trim()] || match;
+});
 
-// 通用翻译函数
-function translateHTML(originalData, translationData) {
-    const translatedData = {};
-
-    for (const key in originalData) {
-        let translatedValue = originalData[key];
-
-        // 使用正则表达式将字符串中的文本进行翻译
-        translatedValue = translatedValue.replace(/([^<]+)|(<[^>]+>)/g, (match, text, tag) => {
-            // 如果是 HTML 标签，则直接返回，否则进行翻译
-            if (tag) return match;
-            return caseInsensitiveTranslationData[text.toLowerCase()] || text;
-        });
-
-        translatedData[key] = translatedValue;
-    }
-
-    return translatedData;
-}
-
-// 翻译原始数据
-const translatedResult = translateHTML(originalData, translationData);
-
-// 输出结果
-console.log(JSON.stringify(translatedResult, null, 2));
+console.log(translatedText);

@@ -104,9 +104,7 @@
           }
         }
       },
-      "block_order": [
-        "a6699743-a0af-457c-82d6-a0390cd2b742"
-      ],
+      "block_order": ["a6699743-a0af-457c-82d6-a0390cd2b742"],
       "settings": {
         "show_section": true,
         "section_css": ""
@@ -229,9 +227,7 @@
           }
         }
       },
-      "block_order": [
-        "c83f3400-f8b3-489a-b926-7d56ec60d693"
-      ],
+      "block_order": ["c83f3400-f8b3-489a-b926-7d56ec60d693"],
       "settings": {
         "show_section": true,
         "section_css": ""
@@ -897,9 +893,7 @@
           }
         }
       },
-      "block_order": [
-        "8a673592-2fc9-44b9-9895-135b3b205d15"
-      ],
+      "block_order": ["8a673592-2fc9-44b9-9895-135b3b205d15"],
       "settings": {
         "show_section": true,
         "section_css": ""
