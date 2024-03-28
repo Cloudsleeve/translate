@@ -5,9 +5,7 @@ function translateJson(jsonFilePath, translations) {
 
     function translate(data) {
         if (typeof data === 'string') {
-
             const lowerCaseWord = data.toLowerCase();
- 
             if (config.wordLibrary.includes(lowerCaseWord)) {
                 return data;
             }
@@ -17,25 +15,19 @@ function translateJson(jsonFilePath, translations) {
                 }
             }
             return data;
-
         } else if (Array.isArray(data)) {
-
             return data.map(item => translate(item));
         } else if (typeof data === 'object' && data !== null) {
-
             const newData = {};
             for (const key in data) {
                 newData[key] = translate(data[key]);
             }
             return newData;
         } else {
-
             return data;
         }
     }
-
     const translatedData = translate(data);
-
     return translatedData;
 }
 
